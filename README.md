@@ -17,19 +17,19 @@ The objectives of the Project are:
 # Description of main files
 1. final_bot.csv - Dataset used for fine-tuning of gpt-2.
 
-Consists of 10,285 rows and 1 column containing answers to different mental health-related queries.
+   Consists of 10,285 rows and 1 column containing answers to different mental health-related queries.
 
 2. fine-tuning.ipynb - For fine-tuning of gpt-2 with suitable dataset.
 
-Tech-Stack used - Python libraries - PyTorch, transformers, gpt-2
+   Tech-Stack used - Python libraries - PyTorch, transformers, gpt-2
 
 3. generate.py - For backend development.
 
-Tech-Stack used - Python libraries - transformers
+   Tech-Stack used - Python libraries - transformers
 
 4. app.py - For UI/UX development.
 
-Tech-Stack used - Streamlit, speech_reecognition, gtts
+   Tech-Stack used - Streamlit, speech_reecognition, gtts
 
 
 ![Screenshot (221)](https://github.com/user-attachments/assets/2a2bf8ae-d271-427c-995f-797a859acfe3)
