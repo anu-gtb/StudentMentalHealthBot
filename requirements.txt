@@ -1,5 +1,0 @@
-torch
-transformers
-streamlit 
-gtts
-speech_recognition
