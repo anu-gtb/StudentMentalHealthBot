@@ -20,14 +20,12 @@ The objectives of the Project are:
 Consists of 10,285 rows and 1 column containing answers to different mental health-related queries.
 
 2. fine-tuning.ipynb - For fine-tuning of gpt-2 with suitable dataset.
-Tech-Stack used - i. Python libraries - PyTorch, transformers
+Tech-Stack used - Python libraries - PyTorch, transformers, gpt-2
 
-                  ii. Model - gpt-2
-
-4. generate.py - For backend development.
+3. generate.py - For backend development.
 Tech-Stack used - Python libraries - transformers
 
-5. app.py - For UI/UX development.
+4. app.py - For UI/UX development.
 Tech-Stack used - Streamlit, speech_reecognition, gtts
 
 
