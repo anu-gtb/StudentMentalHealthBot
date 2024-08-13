@@ -1,14 +1,16 @@
 # StudentMentalHealthBot
 
 # Introduction
-The aim of this project is to develop a chatbot application for students that utilizes GPT-2 model for their basic mental health support and information.
+This project is a chatbot application for students that utilizes GPT-2 model for their basic mental health support and information. 
+
+This app can also be used by visually disabled students as this app contains a feature of speech recognition and then bot responds with an audio for them. 
 
 The objectives of the Project are:
 1. Create conversational AI chatbots for students with mental illnesses at their earliest point.
 2. Allow student users to express and think about their emotions in a safe and anonymous way.
 3. Provide guidance for addressing the most common mental health issues such as anxiety, stress and depression.
 
-Implementation Steps:
+# Implementation Steps
 1. Feeding GPT-2 model with relevant existing understanding-based on deep learning experience, about various forms of human psychological problems like marriages, career issues or family matters within a larger scope like frequently asked questions regarding general mental wellbeing.
 2. Designing an API to offer a human interface by which human beings can seek solutions to their troubles.
 3. Deployment
@@ -19,12 +21,13 @@ Consists of 10,285 rows and 1 column containing answers to different mental heal
 
 2. fine-tuning.ipynb - For fine-tuning of gpt-2 with suitable dataset.
 Tech-Stack used - i. Python libraries - PyTorch, transformers
+
                   ii. Model - gpt-2
 
-3. generate.py - For backend development.
+4. generate.py - For backend development.
 Tech-Stack used - Python libraries - transformers
 
-4. app.py - For UI/UX development.
+5. app.py - For UI/UX development.
 Tech-Stack used - Streamlit, speech_reecognition, gtts
 
 
