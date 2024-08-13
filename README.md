@@ -13,19 +13,22 @@ The objectives of the Project are:
 # Implementation Steps
 1. Feeding GPT-2 model with relevant existing understanding-based on deep learning experience, about various forms of human psychological problems like marriages, career issues or family matters within a larger scope like frequently asked questions regarding general mental wellbeing.
 2. Designing an API to offer a human interface by which human beings can seek solutions to their troubles.
-3. Deployment
 
 # Description of main files
 1. final_bot.csv - Dataset used for fine-tuning of gpt-2.
+
 Consists of 10,285 rows and 1 column containing answers to different mental health-related queries.
 
 2. fine-tuning.ipynb - For fine-tuning of gpt-2 with suitable dataset.
+
 Tech-Stack used - Python libraries - PyTorch, transformers, gpt-2
 
 3. generate.py - For backend development.
+
 Tech-Stack used - Python libraries - transformers
 
 4. app.py - For UI/UX development.
+
 Tech-Stack used - Streamlit, speech_reecognition, gtts
 
 
