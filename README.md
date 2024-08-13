@@ -31,5 +31,4 @@ Tech-Stack used - Streamlit, speech_reecognition, gtts
 ![Screenshot (221)](https://github.com/user-attachments/assets/2a2bf8ae-d271-427c-995f-797a859acfe3)
 ![Screenshot (224)](https://github.com/user-attachments/assets/49636c74-a471-41d5-83ea-d74a878cf01c)
 ![Screenshot (223)](https://github.com/user-attachments/assets/fa52eee0-28d3-4bfb-b1ac-b8fe12de01d6)
-![Screenshot (222)](https://github.com/user-attachments/assets/5229a80a-84a2-4a4e-8a87-6afba9c241a8)
 
