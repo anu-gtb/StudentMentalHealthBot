@@ -1,7 +1,7 @@
 # StudentMentalHealthBot
 
 # Introduction
-This project is a chatbot application for students that utilizes GPT-2 model for their basic mental health support and information. 
+This project is a web application for students utilizing GPT-2 model developed for their basic mental health support and information. In this app, students can ask queries about anything that affects their mental health.
 
 This app can also be used by visually disabled students as this app contains a feature of speech recognition and then bot responds with an audio for them. 
 
