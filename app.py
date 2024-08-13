@@ -3,7 +3,7 @@ from generate import generate_text
 import speech_recognition as  sr
 from gtts import gTTS
 
-model_path='C:\\Users\\DELL\\Documents\\HACK_CONCLAVE\\model'
+model_path='model'
 
 st.set_page_config('Student Mental Health Center')
 
