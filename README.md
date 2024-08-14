@@ -6,7 +6,7 @@ This project is a web application for students utilizing GPT-2 model developed f
 This app can also be used by visually disabled students as this app contains a feature of speech recognition and then bot responds with an audio for them. 
 
 The objectives of the Project are:
-1. Creat AI application for students with mental illnesses at their earliest point.
+1. Create an AI application for students with mental illnesses at their earliest point.
 2. Allow student users to express and think about their emotions in a safe and anonymous way.
 3. Provide guidance for addressing the most common mental health issues such as anxiety, stress and depression.
 
