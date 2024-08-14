@@ -36,3 +36,6 @@ The objectives of the Project are:
 ![Screenshot (224)](https://github.com/user-attachments/assets/49636c74-a471-41d5-83ea-d74a878cf01c)
 ![Screenshot (223)](https://github.com/user-attachments/assets/fa52eee0-28d3-4bfb-b1ac-b8fe12de01d6)
 
+Demo video of working of app - https://youtu.be/JBod6dgVG6Q?si=MMBN0mti8MAzqJ2m
+
+For visually disabled students - https://youtu.be/afbp3AX8cjk?si=xd_fuSc8CsUS-z0g
